@@ -110,3 +110,8 @@ Output:
 Thus, the 3D model is created from given isometric drawing.
 
 
+
+![image](https://github.com/KishoreG2006/EX.No.-2.2-CREATE-A-3D-SOLID-MODEL-FROM-ISOMETRIC-DRAWING/assets/163398482/9dc0e53d-1fb3-4022-9953-aca6b32d2edb)
+
+
+
